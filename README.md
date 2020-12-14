@@ -2,4 +2,4 @@
 Проект Model содержит модели для работы с данными в DataAccessLayer с помощью классов Repository
 Проект DаtaAccessLayer служит для работы с данными из базы данных
 Проект ServiceLayer на основе данных полученных из DаtaAccessLayer создаёт коллекцию объектов RequiredInformation, с которой работает DataManager 
-В DataManager XmlTransfer генерирует xml файл, FileTransfer отправляет его на FTP сервер
+В DataManager XmlTransfer генерирует xml файл, FileTransfer отправляет его на FTP сервер  

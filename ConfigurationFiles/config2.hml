@@ -1,0 +1,7 @@
+<Options>
+	<DataSource>WIN-7CO5AU207D1</DataSource>
+	<InitialCatalog>AdventureWorks2016</InitialCatalog>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<SourceDirectory>D:\SourceDitectory</Directory>
+	<FileDirectory>D:\XmlFiles</File>
+</Options>
